@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "manifest-life-297521",
+  "private_key_id": "49f580d85c9d05c74bc750b414f87ac697339367",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOIPKhT8Jdwa/d\nI9I6S1eacAlfUdXBbJmWC4FNbI5LCv1hqRNdwJ0Ch7z57hIv0YNlaa/Rep7XHVSf\nyEojM0ldLsJhKndtsUSG9AV1Xk0ja0pU8kpJSQFweqQ4DSd/up46ebh4VoGmoQG6\nmiufmqA1mhiiIRew+eSSc4BgiDn8Ossvre5GNe88EO6m+3Fe2YjYJupvgWeWLN/3\n471LfpdZTqCiYjmX19nozas2AJUmhVfvRAAzcPsd4Bweaxyyrm+tTN4oICD7kkuh\nRZsX8j5jW8HHZC2MHSmmi7U+kYvNNe9cNk76q73BvoPckCpjeskfj2umTKQeoLlz\n3pVA88GRAgMBAAECggEANO8lH+PZqDYbMZEHZcz/XDu1THM5j4iSEIQ32mgsSn0y\nAKhovsS+DW5KS2yl4v3M3ng7nHH+5IM1viqzT0LWbkWZyVYcgWDqljWISVHEQXpG\nBnaKOTO0WOxFy9ck85o7FA06ID0m4mGqjf8VgNE2n01JUilpahtiZXGf4CpbqbgB\nahVQzkNxoMBnK75LLysbPKQazz/m3QcyzwLclAvFwm5Al0BFZCaKM7p+Fq+9L10G\nGAon3kgqgsHx/TrP3/E0Z6ASMhOtUWSzuHcDAVxHr0NjbgV6XwtkZE32oIAON08w\ngrPsjnsLBa9qWX7MAh1aQ+YK9AxpGOqCnFjbVwwMmQKBgQDvzV9Ykb5vsvX/v3MS\nRyogYnSNsE/gs4fT0oXAH1BGjaqfK1iAhuM9fPk/nWYMdoC4SHxL2NMqimgoLTvd\nc8VWrv3gaJK7Zadg87/IZs32xKuzOdh6P1/7GElILY7d3xFuEDUb1qxegsOIYSqb\nkcTS8Ne1aqigNfbOA6NhmbTwCwKBgQDcDUwToKDAe7gYAIwwxKjUrJZ5Stl0MTFq\nmkiMO5l24WwqgvsMwBhhu7zJCL3DsHDXrCFrhHItgDRf5DZws0H8K9fFSHPhz+6M\n5l69LZP5E9s+z5uyQemTcHDOIrSi7VxU+U+62K3ZWSq+gLP+Nc72b+/6thFlFiaB\nIaEW4CyKUwKBgEaNtCnI57DRhJM0btTH31sb3JL7duTzrVjjLbry+5lmgPbHuAhI\np38lz+eplabBDuopWXivWKHBixeXB3AGad8xKTznR5SfOfnKfXim1p5uCt52fHyr\nPMARyy3TSZ95zBUH67g/FwPPkVwEypZu8uvlNHIJ6YcJmY3PgDhtEtE1AoGBAKrc\nrFClLYynw+bnLfOED++q3t/pTXWZ6Nv0VhaFBIE5Qaq0r0hUM9pXUpvqbKZw7v2X\nyw9X9Ov9my1F3zudBMRQKqclvcz9jiXbjn5n0HjbgSaBP0ynPz1bVkvIyOelVEcq\nmkzjiAG26ain+JqPn1bczcKm8lTCYT1tJk7D2/G/AoGAaY4OySAjAOghgWzHg6TI\nDDxeXMnBjaBYrUHESICk/sX5l06UKkG40jfz9/d/PQCdEnRX2WzslKd4DUqF9Ha1\nzW/oO4lTumqO0AzrZJCXqgOMasaFiQD1pJRjqLYUbhJysJ772hZr0nzzYm854brK\nkSMSx0FJFqA5KNkv5W+uBr4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapi@manifest-life-297521.iam.gserviceaccount.com",
+  "client_id": "112246857771949288497",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapi%40manifest-life-297521.iam.gserviceaccount.com"
+}

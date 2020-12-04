@@ -5,7 +5,7 @@ from google.cloud import vision, vision_v1
 from google.cloud.vision_v1 import types
 import pandas as pd
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'visionapiproject-297323-6be7debe0d36.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'manifest-life-297521-49f580d85c9d.json'
 client = vision.ImageAnnotatorClient()
 
 file_name = 'text.jpg'
